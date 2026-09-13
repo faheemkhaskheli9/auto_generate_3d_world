@@ -1,0 +1,7 @@
+# Pip-installable parts only. bpy (generate_3d_chunk.py's UV-unwrap step)
+# is NOT here on purpose -- see the README's Requirements section.
+numpy==2.5.1
+scipy==1.18.0
+scikit-image==0.26.0
+pyvista==0.49.0
+pymeshfix==0.18.1
